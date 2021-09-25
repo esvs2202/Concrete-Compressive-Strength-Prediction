@@ -7,7 +7,7 @@ r = requests.post(url, json={'Age (in days) :': 28,
                              'Water (in kg) :': 162.0,
                              'Fly ash (in kg) :': 0.0,
                              'Super plasticizer (in kg) :': 2.5
-                             'Blast furnace slag (in kg) ': 0.0,
+                             'Blast furnace slag (in kg) :': 0.0,
                              })
 
 print(r.json())
