@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<head>
+
+    <title>Concrete compressive Strength Predictor </title>
+
+</head>
+
+
+
+<style>
+        body {
+            background-color:Maroon;
+            color: white;
+            text-align: center;
+            padding-right: 90px;
+        }
+
+
+
+
+
+        </style>
+
+<body>
+
+
+<h1 style="font-size: 28; text-align: center; font-weight: bold;"><u>Concrete Compressive Strength Predictor</u></h1>
+<br>
+<img src="{{ url_for('static', filename='Compressive_strength_test.gif')}}" alt = "img" width="425" height="600" style="background-size:50%;
+            background-repeat: no-repeat;
+            float: right;">
+<div class = "login" style="font-size: 18px">
+    <!-- Inputs to our model-->
+<form action="{{ url_for('predict')}} " method="post">
+    <label for="age"> <b>Age (in days) :</b> </label>
+    <input type = "number"  id = "age" name = "age" placeholder = "Age of the concrete" required = "required" />
+    <br><br><br>
+    <label for= "cement"> <b>Cement (in kg) : </b> </label>
+    <input type = "number" step = "0.01" id= "cement" name = "cement" placeholder = "quantity" required = "required" />
+    <br><br><br>
+    <label for="water"> <b>Water (in kg) :</b></label>
+    <input type = "number" step = "0.01" id = "water" name = "water" placeholder = "quantity " required = "required" />
+    <br><br><br>
+    <label for="fly_ash"><b>Fly ash (in kg) :</b></label>
+    <input type = "number" step = "0.01" id = "fly_ash" name = "fa" placeholder= "quantity " required = "required" />
+    <br><br><br>
+    <label for="superplasticizer"> <b>Superplasticizer (in kg) :</b></label>
+    <input type = "number" step = "0.01" id = "superplasticizer" name="sp" placeholder = "quantity " required = "required" />
+    <br><br><br>
+    <label for="blast_furnace_slag"> <b>Blast furnace slag (in kg) :</b> </label>
+    <input type = "number" step = "0.01" id = "blast_furnace_slag" name = "bfs" placeholder = "quantity " required = "required" />
+    <br><br><br>
+
+    <button type="submit" class="btn btn-primary btn-block btn-large" style="padding: 10px 15px" >Predict</button>
+    {{ prediction_text }}
+    <br><br>
+
+</form> <br><br><br><br><br>
+    <footer class="button"><f> Designed by <a href="https://www.linkedin.com/in/svsriramerramilli/" style="text-align: center;" > S V Sriram Erramilli </a>  |  <a href="https://commons.wikimedia.org/wiki/File:Compressive_strength_test.gif#/media/File:Compressive_strength_test.gif" style="text-align: right;"> GIF source </a> </f></footer>
+    <!--footer class="button"></footer-->
+
+
+    <style>
+a:link, a:visited {
+  color: white;
+  padding: 2px 5px;
+  }
+
+
+</style>
+
+</div>
+
+
+
+</body>
+</html>
