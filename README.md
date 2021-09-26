@@ -18,7 +18,7 @@ I solved this problem using Data science and Machine learning and developed a we
     - Next, tried with various tree based models, performed hyper parameter tuning using the Randomized SearchCV and found the best hyperparameters for each model. Then, picked the top most features as per the feature importance by an each model, recorded that info into a "relevant_features_by_models.csv" file into the "results" directory. Built models, evaluated on both the training and testing data and recorded the performance metrics in the "Performance of algorithms.csv" file in the "results" directory.
     - Based on the performance metrics of both the linear and the tree based models, XGBoost regressor performed the best, followed by the random forest regressor. Saved these two models into the "models" directory.
 4. Deployment:
-    Deployed the model using Flask as a backend part while for the frontend Web page, used HTML and CSS.
+    Deployed the model using Flask as a backend part while for the frontend Web page, used HTML4 (because HTML5 has not supported the css <style> tags).
 
 At each step in both development and deployment parts, logging operation is performed which are stored in the development_logs.log and deployment_logs.log files respectively. 
 
@@ -42,7 +42,8 @@ To deploy this project run
 
 ## Tools and technologies used
 
-![tools and technologies used](https://user-images.githubusercontent.com/22242325/134797633-8eb7c67f-44c6-4e98-80df-361967248a5e.png)
+![tools and technologies used](https://user-images.githubusercontent.com/22242325/134798102-956924b3-79af-4e01-b9c8-5f3b7dcdc4a1.png)
+
 
   
 ## References
