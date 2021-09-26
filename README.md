@@ -4,6 +4,8 @@
 The quality of concrete is determined by its compressive strength, which is measured using a conventional crushing test on a concrete cylinder. The strength of the concrete is also a vital aspect in achieving the requisite longevity. It will take 28 days to test strength, which is a long period.
 I solved this problem using Data science and Machine learning and developed a web application which predicts the "Concrete compressive strength" based on the quantities of raw material, given as an input. Sounds like this saves a lot of time and effort right !😀
 
+`Data source:-` https://www.kaggle.com/elikplim/concrete-compressive-strength-data-set
+
 ## Approach:
 1. Loading the dataset using Pandas and performed basic checks like the data type of each column and having any missing values.
 2. Performed Exploratory data analysis:
@@ -38,7 +40,9 @@ To deploy this project run
 
 ![image](https://user-images.githubusercontent.com/22242325/134782546-83e740aa-c0c5-45d9-a302-6f30b4362d7e.png)
 
+## Tools and technologies used
 
+![Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.anaconda.com%2F&psig=AOvVaw1HGYfTuNgPvMmEf_dmxD4g&ust=1632723964685000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjsjfGAnPMCFQAAAAAdAAAAABAD)
   
 ## References
 
