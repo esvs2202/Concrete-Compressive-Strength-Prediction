@@ -37,6 +37,9 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
+#development and deployment logs
+*.logs
+
 # Unit test / coverage reports
 htmlcov/
 .tox/
@@ -76,6 +79,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+.ipynb
 
 # IPython
 profile_default/
