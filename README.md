@@ -42,7 +42,7 @@ To deploy this project run
 
 ## Tools and technologies used
 
-![Logo]![anaconda-meta](https://user-images.githubusercontent.com/22242325/134796255-4dc04191-05d4-420c-b353-23cd7533c91f.jpg)
+![tools and technologies used](https://user-images.githubusercontent.com/22242325/134797633-8eb7c67f-44c6-4e98-80df-361967248a5e.png)
 
   
 ## References
