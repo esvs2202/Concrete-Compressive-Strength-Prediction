@@ -56,6 +56,6 @@ To deploy this project run
  - [Html, CSS tutorials ](https://www.w3schools.com/)
 ## Authors
 
-- [@esvs2202](https://github.com/esvs2202)
+- Sesha Venkata Sriram Erramilli [@esvs2202](https://github.com/esvs2202)
 
   
