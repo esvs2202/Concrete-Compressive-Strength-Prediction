@@ -42,7 +42,8 @@ To deploy this project run
 
 ## Tools and technologies used
 
-![Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.anaconda.com%2F&psig=AOvVaw1HGYfTuNgPvMmEf_dmxD4g&ust=1632723964685000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjsjfGAnPMCFQAAAAAdAAAAABAD)
+![Logo]![anaconda-meta](https://user-images.githubusercontent.com/22242325/134796255-4dc04191-05d4-420c-b353-23cd7533c91f.jpg)
+
   
 ## References
 
