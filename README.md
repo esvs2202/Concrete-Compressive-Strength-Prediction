@@ -39,8 +39,9 @@ url:- https://ccs-predictor.herokuapp.com/
 
   
 ## References
-
+ 
  - [Concrete Basics: Essential Ingredients For A Concrete Mixture]( https://concretesupplyco.com/concrete-basics/)
+ - [About Fly ash](https://www.thespruce.com/fly-ash-applications-844761)
  - [Feature selection with sklearn and pandas](https://towardsdatascience.com/feature-selection-with-pandas-e3690ad8504b)
  - [sklearn LassoCV](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LassoCV.html)
  - [Post pruning technique in Decision tree algorithm ](https://towardsdatascience.com/3-techniques-to-avoid-overfitting-of-decision-trees-1e7d3d985a09)
