@@ -1,0 +1,10 @@
+/notebook
+/models
+/algorithms
+/dataset
+/data_ingestion
+/data_preprocessing
+/evaluation
+/results
+Readme.md
+*.log
