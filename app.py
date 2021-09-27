@@ -14,7 +14,7 @@ app = Flask(__name__)
 
 # model = pickle.load(open(r'models\XGBoost_Regressor_model.pkl','rb'))  # loading the saved XGBoost_regressor model
 # model = pickle.load(open('models\XGBoost_Regressor_model.pkl','rb'))  # loading the saved XGBoost_regressor model
-model = joblib.load(r'models\XGBoost_Regressor_model.pkl')  # loading the saved XGBoost_regressor model
+model = joblib.load('XGBoost_Regressor_model.pkl')  # loading the saved XGBoost_regressor model
 
 @app.route('/')
 def home():
