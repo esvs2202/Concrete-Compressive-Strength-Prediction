@@ -19,3 +19,33 @@ INFO:2021-09-25 22:17:31,671:The Predicted Concrete Compressive strength is 43.6
 INFO:2021-09-25 22:17:31,671:Prediction getting posted to the web page.
 INFO:2021-09-25 22:17:31,672:127.0.0.1 - - [25/Sep/2021 22:17:31] "POST /predict HTTP/1.1" 200 -
 INFO:2021-09-25 22:17:31,704:127.0.0.1 - - [25/Sep/2021 22:17:31] "[36mGET /static/Compressive_strength_test.gif HTTP/1.1[0m" 304 -
+INFO:2021-09-25 23:51:35,678: * Restarting with stat
+WARNING:2021-09-25 23:51:36,804: * Debugger is active!
+INFO:2021-09-25 23:51:36,813: * Debugger PIN: 831-260-841
+INFO:2021-09-25 23:51:36,901: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2021-09-25 23:51:51,921:127.0.0.1 - - [25/Sep/2021 23:51:51] "GET / HTTP/1.1" 200 -
+INFO:2021-09-25 23:51:51,931:127.0.0.1 - - [25/Sep/2021 23:51:51] "[36mGET /static/Compressive_strength_test.gif HTTP/1.1[0m" 304 -
+INFO:2021-09-26 12:51:01,460: * Restarting with stat
+WARNING:2021-09-26 12:51:02,732: * Debugger is active!
+INFO:2021-09-26 12:51:02,750: * Debugger PIN: 831-260-841
+INFO:2021-09-26 12:51:02,871: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2021-09-26 12:52:58,466:127.0.0.1 - - [26/Sep/2021 12:52:58] "GET / HTTP/1.1" 200 -
+INFO:2021-09-26 12:52:58,489:127.0.0.1 - - [26/Sep/2021 12:52:58] "GET /static/Compressive_strength_test.gif HTTP/1.1" 200 -
+INFO:2021-09-26 12:52:59,418:127.0.0.1 - - [26/Sep/2021 12:52:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:2021-09-26 12:53:35,000:Age (in days): 45, Cement (in kg): 480,Water (in kg): 240, Fly ash (in kg): 0,Superplasticizer (in kg): 10, Blast furnace slag (in kg): 5
+INFO:2021-09-26 12:53:35,007:The Predicted Concrete Compressive strength is 41.34 MPa
+INFO:2021-09-26 12:53:35,008:Prediction getting posted to the web page.
+INFO:2021-09-26 12:53:35,008:127.0.0.1 - - [26/Sep/2021 12:53:35] "POST /predict HTTP/1.1" 200 -
+INFO:2021-09-26 12:53:35,038:127.0.0.1 - - [26/Sep/2021 12:53:35] "[36mGET /static/Compressive_strength_test.gif HTTP/1.1[0m" 304 -
+INFO:2021-09-26 22:28:41,626: * Restarting with stat
+WARNING:2021-09-26 22:28:43,162: * Debugger is active!
+INFO:2021-09-26 22:28:43,185: * Debugger PIN: 831-260-841
+INFO:2021-09-26 22:28:43,324: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2021-09-26 22:28:55,781:127.0.0.1 - - [26/Sep/2021 22:28:55] "GET / HTTP/1.1" 200 -
+INFO:2021-09-26 22:28:55,805:127.0.0.1 - - [26/Sep/2021 22:28:55] "[36mGET /static/Compressive_strength_test.gif HTTP/1.1[0m" 304 -
+INFO:2021-09-26 22:28:56,954:127.0.0.1 - - [26/Sep/2021 22:28:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:2021-09-26 22:29:16,356:Age (in days): 100, Cement (in kg): 250,Water (in kg): 50, Fly ash (in kg): 0,Superplasticizer (in kg): 5, Blast furnace slag (in kg): 0
+INFO:2021-09-26 22:29:16,380:The Predicted Concrete Compressive strength is 44.03 MPa
+INFO:2021-09-26 22:29:16,380:Prediction getting posted to the web page.
+INFO:2021-09-26 22:29:16,382:127.0.0.1 - - [26/Sep/2021 22:29:16] "POST /predict HTTP/1.1" 200 -
+INFO:2021-09-26 22:29:16,423:127.0.0.1 - - [26/Sep/2021 22:29:16] "[36mGET /static/Compressive_strength_test.gif HTTP/1.1[0m" 304 -
