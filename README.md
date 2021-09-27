@@ -18,14 +18,14 @@ I solved this problem using Data science and Machine learning and developed a we
     - Next, tried with various tree based models, performed hyper parameter tuning using the Randomized SearchCV and found the best hyperparameters for each model. Then, picked the top most features as per the feature importance by an each model, recorded that info into a "relevant_features_by_models.csv" file into the "results" directory. Built models, evaluated on both the training and testing data and recorded the performance metrics in the "Performance of algorithms.csv" file in the "results" directory.
     - Based on the performance metrics of both the linear and the tree based models, XGBoost regressor performed the best, followed by the random forest regressor. Saved these two models into the "models" directory.
 4. Deployment:
-    Deployed the model using Flask as a backend part while for the frontend Web page, used HTML4 (because HTML5 has not supported the css <style> tags).
+    Deployed the model using Flask as a backend part while for the frontend Web page, used HTML5.
 
 At each step in both development and deployment parts, logging operation is performed which are stored in the development_logs.log and deployment_logs.log files respectively. 
 
 So, now we can find the Concrete compressive strength quickly by just passing the quantities of the raw materials as an input to the web application 😊. 
 
 
-## Deployment
+## Web Deployment
 Deployed using AWS EC2 instance
 url:- http://65.1.86.65:8080/
 ## Screenshots
