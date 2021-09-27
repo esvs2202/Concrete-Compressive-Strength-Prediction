@@ -26,8 +26,8 @@ So, now we can find the Concrete compressive strength quickly by just passing th
 
 
 ## Web Deployment
-Deployed using AWS EC2 instance
-url:- http://65.1.86.65:8080/
+Deployed using Heroku (PaaS) 
+url:- https://ccs-predictor.herokuapp.com/
 ## Screenshots
 
 ![image](https://user-images.githubusercontent.com/22242325/134782546-83e740aa-c0c5-45d9-a302-6f30b4362d7e.png)
