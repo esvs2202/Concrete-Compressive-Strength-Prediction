@@ -49,3 +49,17 @@ INFO:2021-09-26 22:29:16,380:The Predicted Concrete Compressive strength is 44.0
 INFO:2021-09-26 22:29:16,380:Prediction getting posted to the web page.
 INFO:2021-09-26 22:29:16,382:127.0.0.1 - - [26/Sep/2021 22:29:16] "POST /predict HTTP/1.1" 200 -
 INFO:2021-09-26 22:29:16,423:127.0.0.1 - - [26/Sep/2021 22:29:16] "[36mGET /static/Compressive_strength_test.gif HTTP/1.1[0m" 304 -
+INFO:2021-09-27 16:54:00,130: * Restarting with stat
+WARNING:2021-09-27 16:54:01,569: * Debugger is active!
+INFO:2021-09-27 16:54:01,589: * Debugger PIN: 831-260-841
+INFO:2021-09-27 16:54:01,700: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:2021-09-27 16:54:19,386:127.0.0.1 - - [27/Sep/2021 16:54:19] "GET / HTTP/1.1" 200 -
+INFO:2021-09-27 16:54:19,407:127.0.0.1 - - [27/Sep/2021 16:54:19] "GET /static/Compressive_strength_test.gif HTTP/1.1" 200 -
+INFO:2021-09-27 16:54:20,450:127.0.0.1 - - [27/Sep/2021 16:54:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:2021-09-27 16:54:28,252:127.0.0.1 - - [27/Sep/2021 16:54:28] "GET / HTTP/1.1" 200 -
+INFO:2021-09-27 16:54:28,292:127.0.0.1 - - [27/Sep/2021 16:54:28] "[36mGET /static/Compressive_strength_test.gif HTTP/1.1[0m" 304 -
+INFO:2021-09-27 16:54:46,160:Age (in days): 30, Cement (in kg): 350,Water (in kg): 180, Fly ash (in kg): 0,Superplasticizer (in kg): 10, Blast furnace slag (in kg): 2.5
+INFO:2021-09-27 16:54:46,167:The Predicted Concrete Compressive strength is 38.13 MPa
+INFO:2021-09-27 16:54:46,168:Prediction getting posted to the web page.
+INFO:2021-09-27 16:54:46,168:127.0.0.1 - - [27/Sep/2021 16:54:46] "POST /predict HTTP/1.1" 200 -
+INFO:2021-09-27 16:54:46,198:127.0.0.1 - - [27/Sep/2021 16:54:46] "[36mGET /static/Compressive_strength_test.gif HTTP/1.1[0m" 304 -
