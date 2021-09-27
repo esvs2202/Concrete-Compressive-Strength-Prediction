@@ -26,16 +26,8 @@ So, now we can find the Concrete compressive strength quickly by just passing th
 
 
 ## Deployment
-
-To deploy this project run
-
-```bash
-  npm run app.py
-```
-
-```bash
-  pip install -r requirements.txt
-```
+Deployed using AWS EC2 instance
+url:- http://65.1.86.65:8080/
 ## Screenshots
 
 ![image](https://user-images.githubusercontent.com/22242325/134782546-83e740aa-c0c5-45d9-a302-6f30b4362d7e.png)
