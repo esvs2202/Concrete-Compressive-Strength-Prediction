@@ -48,6 +48,6 @@ url:- https://ccs-predictor.herokuapp.com/
  - [Html, CSS tutorials ](https://www.w3schools.com/)
 ## Authors
 
-- Sesha Venkata Sriram Erramilli [@esvs2202](https://github.com/esvs2202)
+- Sesha Venkata Sriram Erramilli [LinkedIn](https://www.linkedin.com/in/svsriramerramilli/)
 
   
