@@ -46,7 +46,7 @@ url:- https://ccs-predictor.herokuapp.com/
  - [Post pruning technique in Decision tree algorithm ](https://towardsdatascience.com/3-techniques-to-avoid-overfitting-of-decision-trees-1e7d3d985a09)
  - [Hyper parameter tuning in XGBoost ](https://xgboost.readthedocs.io/en/latest/tutorials/param_tuning.html)
  - [Html, CSS tutorials ](https://www.w3schools.com/)
-## Authors
+## Author
 
 - Sesha Venkata Sriram Erramilli [LinkedIn](https://www.linkedin.com/in/svsriramerramilli/)
 
