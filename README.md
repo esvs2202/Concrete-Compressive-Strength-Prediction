@@ -34,8 +34,7 @@ url:- https://ccs-predictor.herokuapp.com/
 
 ## Tools and technologies used
 
-
-![tools and technologies used](https://user-images.githubusercontent.com/22242325/135045038-f065f206-4580-4d19-92da-fbb31b8597fb.png)
+![tools and technologies used](https://user-images.githubusercontent.com/22242325/135045139-7e9e2bdd-ae1a-43f7-9c8b-5d12e4a4cd62.png)
 
   
 ## References
