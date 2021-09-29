@@ -44,6 +44,7 @@ url:- https://ccs-predictor.herokuapp.com/
  - [Applications of Fly ash](https://www.thespruce.com/fly-ash-applications-844761)
  - [Blast furnace slag cement](https://theconstructor.org/concrete/blast-furnace-slag-cement/23534/)
  - [Applications of Superplasitcizer in concrete making](https://en.wikipedia.org/wiki/Superplasticizer)
+ - [Factors that affect strength of concrete](https://gharpedia.com/blog/factors-that-affect-strength-of-concrete/)
  - [Feature selection with sklearn and pandas](https://towardsdatascience.com/feature-selection-with-pandas-e3690ad8504b)
  - [sklearn's LassoCV](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LassoCV.html)
  - [Post pruning technique in Decision tree algorithm ](https://towardsdatascience.com/3-techniques-to-avoid-overfitting-of-decision-trees-1e7d3d985a09)
