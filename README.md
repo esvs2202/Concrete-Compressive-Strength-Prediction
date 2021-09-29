@@ -42,6 +42,7 @@ url:- https://ccs-predictor.herokuapp.com/
  - [Testing the compressive strength of a concrete in laboratory](https://www.youtube.com/watch?v=t4RDdn6rOwU&ab_channel=Anime_Edu-CivilEngineeringVideos) 
  - [Concrete Basics: Essential Ingredients For A Concrete Mixture](https://concretesupplyco.com/concrete-basics/)
  - [Applications of Fly ash](https://www.thespruce.com/fly-ash-applications-844761)
+ - [About Blast furnace slag cement](https://theconstructor.org/concrete/blast-furnace-slag-cement/23534/)
  - [Feature selection with sklearn and pandas](https://towardsdatascience.com/feature-selection-with-pandas-e3690ad8504b)
  - [sklearn's LassoCV](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LassoCV.html)
  - [Post pruning technique in Decision tree algorithm ](https://towardsdatascience.com/3-techniques-to-avoid-overfitting-of-decision-trees-1e7d3d985a09)
