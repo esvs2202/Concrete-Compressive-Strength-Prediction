@@ -40,13 +40,13 @@ url:- https://ccs-predictor.herokuapp.com/
 ## References
  
  - [Testing the compressive strength of a concrete in laboratory](https://www.youtube.com/watch?v=t4RDdn6rOwU&ab_channel=Anime_Edu-CivilEngineeringVideos) 
- - [Concrete Basics: Essential Ingredients For A Concrete Mixture]( https://concretesupplyco.com/concrete-basics/)
+ - [Concrete Basics: Essential Ingredients For A Concrete Mixture](https://concretesupplyco.com/concrete-basics/)
  - [Applications of Fly ash](https://www.thespruce.com/fly-ash-applications-844761)
  - [Feature selection with sklearn and pandas](https://towardsdatascience.com/feature-selection-with-pandas-e3690ad8504b)
- - [sklearn LassoCV](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LassoCV.html)
+ - [sklearn's LassoCV](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LassoCV.html)
  - [Post pruning technique in Decision tree algorithm ](https://towardsdatascience.com/3-techniques-to-avoid-overfitting-of-decision-trees-1e7d3d985a09)
  - [Hyper parameter tuning in XGBoost ](https://xgboost.readthedocs.io/en/latest/tutorials/param_tuning.html)
- - [Html, CSS tutorials ](https://www.w3schools.com/)
+ - [HTML, CSS tutorials ](https://www.w3schools.com/)
 ## Author
 
 - Sesha Venkata Sriram Erramilli [LinkedIn](https://www.linkedin.com/in/svsriramerramilli/)
