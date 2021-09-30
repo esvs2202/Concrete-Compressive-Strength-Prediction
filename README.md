@@ -36,6 +36,11 @@ url:- https://ccs-predictor.herokuapp.com/
 
 ![tools and technologies used](https://user-images.githubusercontent.com/22242325/135045139-7e9e2bdd-ae1a-43f7-9c8b-5d12e4a4cd62.png)
 
+## High level design
+URL:- https://drive.google.com/file/d/1T-Vbn6AIgHdBeGm3jr46-BvoBR0vJ68W/view?usp=sharing
+
+## Wireframe document
+URL:- https://drive.google.com/file/d/1XmkH9p1uVLYUY-y6-mSRiJZhf-WhXuJ1/view?usp=sharing
   
 ## References
  
