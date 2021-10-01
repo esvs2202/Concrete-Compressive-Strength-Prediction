@@ -43,7 +43,7 @@ URL:- https://drive.google.com/file/d/1Sc6AWTNQx3u0s6SLdfQxdcS3rfxR5Ww1/view?usp
 URL:- https://drive.google.com/file/d/1ZztcOqvvFe7Xhjhhljnpu4OqfbQvj6iW/view?usp=sharing
 
 ## Architecture
-URL:- 
+URL:- https://drive.google.com/file/d/1KiH7zb48O0BEF75PpJLF9xAhLiGzlMcG/view?usp=sharing
 
 ## Detailed project report
 URL:- 
