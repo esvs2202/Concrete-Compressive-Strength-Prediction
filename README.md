@@ -40,7 +40,7 @@ url:- https://ccs-predictor.herokuapp.com/
 URL:- https://drive.google.com/file/d/1Sc6AWTNQx3u0s6SLdfQxdcS3rfxR5Ww1/view?usp=sharing
 
 ## Low level design
-URL:- https://drive.google.com/file/d/1lrdPL62HROfPXkrJC2J6p59aRWYJqZoL/view?usp=sharing
+URL:- https://drive.google.com/file/d/1ZztcOqvvFe7Xhjhhljnpu4OqfbQvj6iW/view?usp=sharing
 
 ## Architecture
 URL:- 
