@@ -62,6 +62,7 @@ URL:-
  - [Applications of Fly ash](https://www.thespruce.com/fly-ash-applications-844761)
  - [Blast furnace slag cement](https://theconstructor.org/concrete/blast-furnace-slag-cement/23534/)
  - [Applications of Superplasitcizer in concrete making](https://en.wikipedia.org/wiki/Superplasticizer)
+ - [Why 1.5 in IQR method of outlier detection](https://towardsdatascience.com/why-1-5-in-iqr-method-of-outlier-detection-5d07fdc82097)
  - [Factors that affect strength of concrete](https://gharpedia.com/blog/factors-that-affect-strength-of-concrete/)
  - [Feature selection with sklearn and pandas](https://towardsdatascience.com/feature-selection-with-pandas-e3690ad8504b)
  - [sklearn's LassoCV](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LassoCV.html)
