@@ -24,8 +24,8 @@ class DataPreprocessor:
 
     def rem_outliers(self, column_name):
         """ Description: This method removes outliers from the specified column using Inter quartile range method.
-        Here, first we consider the values which are at the 1st and 3rd quartiles and store it in one dataframe say data_inc.
-        Then, we exclude the values which are at the 1st and 3rd quartiles and store it in one dataframe say data_esc.
+        Here, first we consider the values which are at the upper and lower limits and store it in one dataframe say data_inc.
+        Then, we exclude the values which are at the upper and lower limits and store it in one dataframe say data_esc.
         Then, we concatenate both the data frames into a single dataframe.
         Raises an exception if it fails.
 
