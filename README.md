@@ -43,10 +43,10 @@ URL:- https://drive.google.com/file/d/1Sc6AWTNQx3u0s6SLdfQxdcS3rfxR5Ww1/view?usp
 URL:- https://drive.google.com/file/d/1ZztcOqvvFe7Xhjhhljnpu4OqfbQvj6iW/view?usp=sharing
 
 ## Architecture
-URL:- https://drive.google.com/file/d/1KiH7zb48O0BEF75PpJLF9xAhLiGzlMcG/view?usp=sharing
+URL:- https://drive.google.com/file/d/1IfsVoRv1WqYB4qZYLT9LBTiUF1HLZ3q_/view?usp=sharing
 
 ## Detailed project report
-URL:- https://drive.google.com/file/d/1ol3KdRJzUXYhlKEo8CFKbjLJ3C8xuOsW/view?usp=sharing
+URL:- https://drive.google.com/file/d/1uGXGzHh58Uzu6x56FKj8r553gA48ZHeL/view?usp=sharing
 
 ## Wireframe document
 URL:- https://drive.google.com/file/d/1XmkH9p1uVLYUY-y6-mSRiJZhf-WhXuJ1/view?usp=sharing
