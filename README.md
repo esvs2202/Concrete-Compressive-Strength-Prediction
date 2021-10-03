@@ -51,8 +51,7 @@ URL:- https://drive.google.com/file/d/1ol3KdRJzUXYhlKEo8CFKbjLJ3C8xuOsW/view?usp
 ## Wireframe document
 URL:- https://drive.google.com/file/d/1XmkH9p1uVLYUY-y6-mSRiJZhf-WhXuJ1/view?usp=sharing
 
-## Project Demo video
-URL:-  
+ 
 
   
 ## References
