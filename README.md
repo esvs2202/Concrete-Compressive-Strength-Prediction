@@ -37,7 +37,7 @@ url:- https://ccs-predictor.herokuapp.com/
 ![tools and technologies used](https://user-images.githubusercontent.com/22242325/135045139-7e9e2bdd-ae1a-43f7-9c8b-5d12e4a4cd62.png)
 
 ## High level design
-URL:- https://drive.google.com/file/d/1Sc6AWTNQx3u0s6SLdfQxdcS3rfxR5Ww1/view?usp=sharing
+URL:- https://drive.google.com/file/d/1ucWKT8LXsr2k-9X83UA5YjB7GSRxY8ND/view?usp=sharing
 
 ## Low level design
 URL:- https://drive.google.com/file/d/1ZztcOqvvFe7Xhjhhljnpu4OqfbQvj6iW/view?usp=sharing
